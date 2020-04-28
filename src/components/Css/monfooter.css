@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.avis {
+  color: white;
+  margin-top: 198px;
+  margin-left: 94px;
+}
+.fa-tripadvisor:before {
+  content: "\f262";
+  font-size: 19px;
+}
+
+.robot {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: #0064dc;
+  color: white;
+  font-size: 15px;
+}
+/* .robothelp {
+    background-repeat: no-repeat;
+    background-position: -54px -29px;
+    background-color: #fff;
+    background-image: url("../img/robot2.png");
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: fixed;
+    bottom: 0;
+    margin: 0 5px;
+    margin-left: 920px;
+  } */
+.kv-BlocTel-number {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 4px 0;
+}

@@ -1,0 +1,213 @@
+.bons {
+  text-transform: unset;
+  padding-top: 15px;
+  color: #242d44;
+  font-family: Montserrat;
+  font-size: 27px;
+  margin-left: 120px;
+  font-weight: 600 !important;
+  text-align: center;
+}
+.imgdest {
+  width: 293px;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.titredestinations {
+  color: #242d44;
+  position: absolute;
+  margin-top: 29px;
+  margin-left: 125px;
+  font-size: 19px;
+}
+.fa,
+.fas {
+  font-weight: 900;
+  font-size: 20px;
+  color: #ff5f46;
+}
+#prix {
+  margin-left: 245px;
+  position: absolute;
+  margin-top: -61px;
+  width: 88px;
+  height: 58px;
+  background-color: #ff5f46;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  font-size: 20px;
+}
+.sejour {
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+  background: #ff5f46;
+  display: inline-block;
+  color: #fff;
+  margin: 0 auto;
+  cursor: pointer;
+  margin-top: 57px;
+  text-align: center;
+}
+.destinations {
+  color: #242d44;
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 27px;
+  margin-top: 755px;
+  position: absolute;
+  margin-left: 87px;
+  text-align: center;
+}
+
+.egypte {
+  margin-top: 828px;
+  position: absolute;
+  margin-left: 15px;
+}
+
+.block {
+  width: 239px;
+  height: 426px;
+  position: absolute;
+  background-color: black;
+  margin-top: 829px;
+  opacity: 0.2;
+  margin-left: 415px;
+  font-size: 40px;
+  color: blanchedalmond;
+  font-weight: 700;
+}
+
+#prix-egypte {
+  margin-left: 405px;
+  position: absolute;
+  margin-top: 933px;
+  width: 126px;
+  height: 32px;
+  background-color: #ff5f46;
+  color: #fff;
+  text-align: center;
+  font-family: unset;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.block2 {
+  font-size: 33px;
+  margin-top: 850px;
+  position: absolute;
+  margin-left: 430px;
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+}
+
+#degypte {
+  font-size: 14px;
+  position: absolute;
+  margin-top: 1018px;
+  color: white;
+  font-weight: 600;
+  margin-left: 414px;
+}
+
+.Toastify__toast {
+  margin-left: -110px;
+  position: absolute;
+  min-height: 64px;
+  box-sizing: border-box;
+  margin-bottom: 1rem;
+  padding: 8px;
+  border-radius: 1px;
+  display: flex;
+  justify-content: space-between;
+  max-height: 800px;
+  overflow: hidden;
+  font-family: sans-serif;
+  cursor: pointer;
+  direction: ltr;
+  margin-top: 62px;
+}
+.Toastify__toast--info {
+  background: #ff5f46;
+}
+
+.topdestinations {
+  margin-top: 762px;
+  margin-left: 888px;
+  text-align: center;
+  position: absolute;
+}
+#divv {
+  background-color: #424b62;
+  width: 275px;
+  height: 429px;
+  margin-top: 825px;
+  position: absolute;
+  margin-left: 836px;
+}
+
+.maldives {
+  color: black;
+}
+.choix {
+  position: absolute;
+  margin-top: 858px;
+  margin-left: 865px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+.choix2 {
+  color: #ff5f46;
+}
+
+.choix4 {
+  position: absolute;
+  margin-top: 940px;
+  margin-left: 865px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+.choix3 {
+  color: #ff5f46;
+}
+
+.choix5 {
+  position: absolute;
+  margin-top: 1028px;
+  margin-left: 865px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.choix6 {
+  color: #ff5f46;
+}
+
+.choix7 {
+  position: absolute;
+  margin-top: 1128px;
+  margin-left: 865px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.choix8 {
+  color: #ff5f46;
+}
