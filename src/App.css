@@ -237,7 +237,7 @@ a {
   p {
     line-height: 20px;
     color: #777;
-    font-size: 30px;
+    font-size: 11px;
   }
   #steps ul li {
     float: none;
@@ -340,10 +340,6 @@ a {
   color: #ff7a00;
 }
 
-header {
-  height: 120px;
-  background-color: #0064dc;
-}
 ul {
   list-style: none;
 }

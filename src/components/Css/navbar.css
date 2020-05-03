@@ -1,27 +1,34 @@
-@media only screen and (max-width: 1200px) {
-  header {
-    height: 120px;
-    background-color: #0064dc;
-    width: 113vh;
-  }
-  header nav ul li a {
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-right: 26px;
-    margin-left: 66px;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-@media all and (orientation: portrait) {
-  header {
-    height: 120px;
-    background-color: #0064dc;
-    width: 113vh;
+.btn {
+  display: none;
+}
+
+@media screen and (max-width: 500px) {
+  .liste {
+    flex-direction: column;
+    height: 200px;
   }
-  header nav ul li a {
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-right: 26px;
-    margin-left: 66px;
+
+  .items {
+    height: 50px;
+    border-top: 1px solid #fff;
+    margin-top: 20px;
+    font-size: 30px;
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    line-height: 50px;
+  }
+  .btn {
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 43px;
+    color: white;
+    cursor: pointer;
   }
 }
