@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Caravanes from "../Caravanes";
 import Myicons from "../Myicons";
 import { Link } from "react-router-dom";
+
 import "../Css/acceuil.css";
 class Acceuil extends Component {
   constructor() {
