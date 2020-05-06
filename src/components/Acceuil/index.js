@@ -29,15 +29,19 @@ class Acceuil extends Component {
         {this.state.show ? (
           <p className="cookies">
             {" "}
-            Les cookies assurent le bon fonctionnement de nos services. En
-            utilisant ces derniers, vous acceptez l'utilisation des cookies.{" "}
+            En poursuivant votre navigation sur ce site, vous acceptez
+            l’utilisation des cookies destinés à améliorer votre expérience de
+            navigation, à mesurer l’audience <br />
+            et optimiser la performance du site, à vous offrir des
+            fonctionnalités relatives aux médias sociaux et à vous proposer des
+            offres personnalisées.
             <span
               id="X"
               onClick={() => {
                 this.setState({ show: false });
               }}
             >
-              x
+              <button className="Jaccepte"> J'accepte </button>
             </span>{" "}
           </p>
         ) : null}
