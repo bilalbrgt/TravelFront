@@ -13,6 +13,10 @@ body {
   font-family: Arial, serif;
   font-size: 15px;
 }
+header {
+  height: 120px;
+  background-color: #0064dc;
+}
 
 .mymsg {
   font-size: 20px;
@@ -183,7 +187,7 @@ a {
   text-decoration: none;
   color: #fff;
 }
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1200px) {
   small {
     font-size: 26px;
     font-style: normal;
@@ -195,7 +199,7 @@ a {
   }
   header {
     height: 120px;
-    background-color: #0064dc;
+    background-color: white;
     width: 124vh;
   }
   .buttons-1 {
@@ -234,6 +238,15 @@ a {
     border-radius: 10px;
     margin-left: 171px;
   }
+  #main-images h2 {
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 70px 0 40px 0;
+    margin-bottom: 37px;
+    margin-top: -119px;
+    font-size: 40px;
+  }
   p {
     line-height: 20px;
     color: #777;
@@ -248,8 +261,8 @@ a {
   }
   h1 {
     font-family: "Crete Round", serif;
-    font-size: 30px;
-    color: white;
+    font-size: 40px;
+    color: black;
     text-align: center;
     float: left;
     margin-top: 32px;

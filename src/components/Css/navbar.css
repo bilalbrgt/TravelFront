@@ -8,27 +8,35 @@
   display: none;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1200px) {
   .liste {
     flex-direction: column;
     height: 200px;
+    background-color: rgb(28, 55, 171);
+    width: 308px;
+    height: 206px;
+    margin-right: 45px;
+    margin-top: 83px;
   }
 
   .items {
     height: 50px;
-    border-top: 1px solid #fff;
     margin-top: 20px;
     font-size: 30px;
     width: 100%;
-    border-bottom: 1px solid #fff;
     line-height: 50px;
+  }
+  .fa-sliders-h:before {
+    content: "\f1de";
+    color: black;
+    font-size: 44px;
   }
   .btn {
     display: block;
     position: absolute;
-    right: 15px;
-    top: 43px;
-    color: white;
+    margin-left: 994px;
+    margin-top: 40px;
+    color: black;
     cursor: pointer;
   }
 }
