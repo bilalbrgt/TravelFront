@@ -31,7 +31,7 @@ class Acceuil extends Component {
             {" "}
             En poursuivant votre navigation sur ce site, vous acceptez
             l’utilisation des cookies destinés à améliorer votre expérience de
-            navigation, à mesurer l’audience <br />
+            navigation, à mesurer l’audience <br />  <br />
             et optimiser la performance du site, à vous offrir des
             fonctionnalités relatives aux médias sociaux et à vous proposer des
             offres personnalisées.
